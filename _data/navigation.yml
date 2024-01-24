@@ -23,11 +23,14 @@ main:
 categories:
   - title: "Python"
   url: /categories/python/
-
+  
+  - title: "Algorithm"
+  url: /categories/algorithm/
+  
   - title: "Mathmetics"
     children: 
-      -title: "Linear Algebra"
-      url: /categories/linear algebra/
+      # -title: "Linear Algebra"
+      # url: /categories/linear algebra/
       # -title: "Probability and Statistics"
       # url: /categories/probability and statistics/
       -title: "Real Analysis"
@@ -37,8 +40,9 @@ categories:
 
   - title: "Machine Learning"
     children: 
-      -title: "Understanding ML"
-      url: /categories/understanding ml/
+      -title: "Machine Learning"
+      url: /categories/machine learning/
+  
   
 
   # - title: "Categories2"

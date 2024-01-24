@@ -21,8 +21,26 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
+  - title: "Python"
+  url: /categories/python/
+
   - title: "Mathmetics"
-    url: /categories/Mathematic/
+    children: 
+      -title: "Linear Algebra"
+      url: /categories/linear algebra/
+      # -title: "Probability and Statistics"
+      # url: /categories/probability and statistics/
+      -title: "Real Analysis"
+      url: /categories/real analysis/
+      -title: "Measure Theory"
+      url: /categories/measure theory/
+
+  - title: "Machine Learning"
+    children: 
+      -title: "Understanding ML"
+      url: /categories/understanding ml/
+  
+
   # - title: "Categories2"
   #   url: /categories/categories2/
   # - title: "Categories3"

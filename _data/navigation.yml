@@ -3,11 +3,14 @@ main:
   - title: "Home"
     url: https://soony1213.github.io/
 
+  - title: "About"
+    url: /about/
+
   - title: "CV"
     url: /assets/cv/jsbaik_CV.pdf
 
-  - title: "GitHub"
-    url: https://github.com/soony1213
+  # - title: "GitHub"
+  #   url: https://github.com/soony1213
 
   # - title: "Projects"
   #   url: /projects/

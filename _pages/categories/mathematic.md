@@ -1,7 +1,7 @@
 ---
 title: "Mathematic"
 layout: category
-permalink: /categories/Mathematic/
+permalink: /categories/Mathematic/ # url
 author_profile: true
 taxonomy: Mathematic
 sidebar:

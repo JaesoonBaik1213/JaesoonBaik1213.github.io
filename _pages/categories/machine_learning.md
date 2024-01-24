@@ -1,9 +1,9 @@
 ---
-title: "Measure Theory"
+title: "Machine Learning"
 layout: category
-permalink: /categories/measure theory/ # url
+permalink: /categories/machine learning/ # url
 author_profile: true
-taxonomy: Measure Theory
+taxonomy: Machine Learning
 sidebar:
-  nav: "Measure Theory"
+  nav: "Machine Learning"
 ---

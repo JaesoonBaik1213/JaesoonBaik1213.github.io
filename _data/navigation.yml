@@ -29,8 +29,8 @@ categories:
   
   - title: "Mathmetics"
     children: 
-      # -title: "Linear Algebra"
-      # url: /categories/linear algebra/
+      -title: "Linear Algebra"
+      url: /categories/linear algebra/
       # -title: "Probability and Statistics"
       # url: /categories/probability and statistics/
       -title: "Real Analysis"
@@ -44,10 +44,3 @@ categories:
       url: /categories/machine learning/
   
   
-
-  # - title: "Categories2"
-  #   url: /categories/categories2/
-  # - title: "Categories3"
-  #   url: /categories/categories3/
-  # - title: "Categories4"
-  #   url: /categories/categories4/

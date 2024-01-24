@@ -21,11 +21,14 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
+  - title: "Life"
+    url: /categories/life/
+  
   - title: "Python"
-  url: /categories/python/
+    url: /categories/python/
   
   - title: "Algorithm"
-  url: /categories/algorithm/
+    url: /categories/algorithm/
   
   - title: "Mathmetics"
     children: 

@@ -1,5 +1,5 @@
 ---
-title: "Linear Algebra,"
+title: "Linear Algebra"
 layout: category
 permalink: /categories/linear algebra/ # url
 author_profile: true

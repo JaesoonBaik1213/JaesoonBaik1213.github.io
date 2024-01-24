@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://choiiis.github.io/
+    url: https://soony1213.github.io/
 
-  - title: "About"
-    url: /about/
+  - title: "CV"
+    url: /assets/cv/jsbaik_CV.pdf
 
   - title: "GitHub"
-    url: https://github.com/choiiis
+    url: https://github.com/soony1213
 
   # - title: "Projects"
   #   url: /projects/

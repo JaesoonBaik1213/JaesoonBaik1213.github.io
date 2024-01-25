@@ -5,5 +5,5 @@ permalink: /categories/real analysis/ # url
 author_profile: true
 taxonomy: Real Analysis
 sidebar:
-  nav: "Real Analysis"
+  nav: "categories"
 ---

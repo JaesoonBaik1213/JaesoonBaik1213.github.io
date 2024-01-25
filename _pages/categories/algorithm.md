@@ -5,5 +5,5 @@ permalink: /categories/algorithm/ # url
 author_profile: true
 taxonomy: Algorithm
 sidebar:
-  nav: "Algorithm"
+  nav: "categories"
 ---

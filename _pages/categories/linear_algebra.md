@@ -5,5 +5,5 @@ permalink: /categories/linear algebra/ # url
 author_profile: true
 taxonomy: Linear Algebra
 sidebar:
-  nav: "Linear Algebra"
+  nav: "categories"
 ---

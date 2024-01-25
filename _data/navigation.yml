@@ -27,10 +27,11 @@ categories:
     url: /categories/python/
   - title: "Algorithm"
     url: /categories/algorithm/
-  # - title: "Mathmetics"
-  #   children: 
-  #     -title: "Linear Algebra"
-  #       url: /categories/linear algebra/
+  - title: "Mathmetics"
+    children: 
+      -title: "Linear Algebra"
+        url: /categories/linear algebra/
+        category: linear algebra
   #     -title: "Real Analysis"
   #       url: /categories/real analysis/
   #     -title: "Measure Theory"

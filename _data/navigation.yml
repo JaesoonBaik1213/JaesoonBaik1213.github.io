@@ -25,8 +25,8 @@ categories:
     url: /categories/life/
   - title: "Python"
     url: /categories/python/
-  # - title: "Algorithm"
-  #   url: /categories/algorithm/
+  - title: "Algorithm"
+    url: /categories/algorithm/
   # - title: "Mathmetics"
   #   children: 
   #     -title: "Linear Algebra"

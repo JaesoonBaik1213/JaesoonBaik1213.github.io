@@ -1,4 +1,5 @@
 ---
+published: true
 title: "블로그 만들기 시작~~"
 excerpt: "테스트 5"
 

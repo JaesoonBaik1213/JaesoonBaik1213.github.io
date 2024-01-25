@@ -5,5 +5,5 @@ permalink: /categories/algorithm/ # url
 author_profile: true
 taxonomy: Algorithm
 sidebar:
-  nav: "_data/natigation.yml"
+  nav: "categories"
 ---

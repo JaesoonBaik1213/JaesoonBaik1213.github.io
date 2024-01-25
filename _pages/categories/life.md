@@ -5,5 +5,5 @@ permalink: /categories/life/ # url
 author_profile: true
 taxonomy: Life
 sidebar:
-  nav: "_data/natigation"
+  nav: "categories"
 ---

@@ -23,13 +23,10 @@ main:
 categories:
   - title: "Life"
     url: /categories/life/
-  
   - title: "Python"
     url: /categories/python/
-  
   - title: "Algorithm"
     url: /categories/algorithm/
-  
   - title: "Mathmetics"
     children: 
       -title: "Linear Algebra"
@@ -38,7 +35,6 @@ categories:
         url: /categories/real analysis/
       -title: "Measure Theory"
         url: /categories/measure theory/
-
   - title: "Machine Learning"
     children: 
       -title: "Machine Learning"

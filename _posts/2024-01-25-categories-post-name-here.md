@@ -7,7 +7,7 @@ categories:
 tags:
   - [Mllog]
 
-permalink: /categories/life/life1/
+permalink: /categories/life/
 
 toc: true
 toc_sticky: true

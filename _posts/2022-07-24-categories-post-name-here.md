@@ -1,21 +1,21 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "블로그 만들기 시작~~"
+excerpt: "블로그 만들기 시작!"
 
 categories:
-  - Categories1
+  - Life
 tags:
-  - [tag1, tag2]
+  - [Mllog]
 
-permalink: /categories1/post-name-here/
+permalink: /categories/life/start blog/
 
 toc: true
 toc_sticky: true
 
-date: 2020-05-21
-last_modified_at: 2021-10-09
+date: 2024-01-25
+last_modified_at: 2024-01-25
 ---
 
 ## 🦥 본문
 
-본문은 여기에 ...
+새해다짐: 차근차근 업데이트 해보자!

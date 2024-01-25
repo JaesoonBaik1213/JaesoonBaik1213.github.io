@@ -23,8 +23,8 @@ main:
 categories:
   - title: "Life"
     url: /categories/life/
-  # - title: "Python"
-  #   url: /categories/python/
+  - title: "Python"
+    url: /categories/python/
   # - title: "Algorithm"
   #   url: /categories/algorithm/
   # - title: "Mathmetics"

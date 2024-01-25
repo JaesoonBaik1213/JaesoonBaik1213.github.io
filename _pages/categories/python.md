@@ -5,5 +5,5 @@ permalink: /categories/python/ # url
 author_profile: true
 taxonomy: Python
 sidebar:
-  nav: "_data/navigation.yml/categories"
+  nav: "categories"
 ---

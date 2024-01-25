@@ -36,8 +36,6 @@ categories:
       -title: "Measure Theory"
         url: /categories/measure theory/
   - title: "Machine Learning"
-    children: 
-      -title: "Machine Learning"
-        url: /categories/machine learning/
+    url: /categories/machine learning/
   
   

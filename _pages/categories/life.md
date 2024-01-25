@@ -1,7 +1,7 @@
 ---
 title: "Life"
 layout: category
-permalink: /categories/Life/ # url
+permalink: /categories/life/ # url
 author_profile: true
 taxonomy: Life
 sidebar:

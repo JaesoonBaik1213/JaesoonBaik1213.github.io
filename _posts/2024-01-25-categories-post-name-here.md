@@ -1,6 +1,6 @@
 ---
 title: "블로그 만들기 시작~~"
-excerpt: "테스트 4"
+excerpt: "테스트 5"
 
 categories:
   - Life

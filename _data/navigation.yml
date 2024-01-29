@@ -23,23 +23,28 @@ main:
 categories:
   - title: "Life"
     url: /categories/life/
+    
   - title: "Python"
     url: /categories/python/
   - title: "CV"
     children: 
       -title: "Computer Vision"
         url: /categories/computer vision/
+        category: computer vision
       -title: "Algorithm"
         url: /categories/algorithm/
-  # - title: "Mathmetics"
-  #   children: 
-  #     -title: "Linear Algebra"
-  #       url: /categories/linear algebra/
-  #       category: linear algebra
-  #     -title: "Real Analysis"
-  #       url: /categories/real analysis/
-  #     -title: "Measure Theory"
-  #       url: /categories/measure theory/
+        category: algorithm
+  - title: "Mathmetics"
+    children: 
+      -title: "Linear Algebra"
+        url: /categories/linear algebra/
+        category: linear algebra
+      -title: "Real Analysis"
+        url: /categories/real analysis/
+        category: real analysis
+      -title: "Measure Theory"
+        url: /categories/measure theory/
+        category: measure theory
   - title: "Machine Learning"
     url: /categories/machine learning/
   

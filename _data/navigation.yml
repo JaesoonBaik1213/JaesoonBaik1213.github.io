@@ -33,7 +33,7 @@ categories:
   - title: "Computer Science"
     children: 
       - title: "Computer Vision"
-        url: /categories/computer vision/
+        url: /categories/computer_vision/
         category: computer vision
       - title: "Algorithm"
         url: /categories/algorithm/
@@ -42,18 +42,18 @@ categories:
   - title: "Mathmetics"
     children: 
       - title: "Linear Algebra"
-        url: /categories/linear algebra/
+        url: /categories/linear_algebra/
         category: linear algebra
       - title: "Real Analysis"
-        url: /categories/real analysis/
+        url: /categories/real_analysis/
         category: real analysis
       - title: "Measure Theory"
-        url: /categories/measure theory/
+        url: /categories/measure_theory/
         category: measure theory
   
   - title: "Machine Learning"
     children: 
       - title: "Machine Learning"
-        url: /categories/machine learning/
+        url: /categories/machine_learning/
   
   

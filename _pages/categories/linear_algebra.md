@@ -1,7 +1,7 @@
 ---
 title: "Linear Algebra"
 layout: category
-permalink: /categories/linear algebra/ # url
+permalink: /categories/linear_algebra/ # url
 author_profile: true
 taxonomy: Linear Algebra
 sidebar:

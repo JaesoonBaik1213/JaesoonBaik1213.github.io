@@ -1,6 +1,6 @@
 ---
 title: "Life"
-layout: category
+layout: categories
 permalink: /categories/life/ # url
 author_profile: true
 taxonomy: Life

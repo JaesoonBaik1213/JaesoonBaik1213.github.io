@@ -29,6 +29,9 @@ categories:
     children:
       - title: "Python"
         url: /categories/python/
+      - title: "Markdown"
+        url: /categories/markdown/
+        category: markdown
 
   - title: "Computer Science"
     children: 
@@ -55,5 +58,4 @@ categories:
     children: 
       - title: "Machine Learning"
         url: /categories/machine_learning/
-  
-  
+        category: machine learning

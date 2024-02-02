@@ -1,7 +1,7 @@
 ---
 published: true
-title: "[ML 1] ERM and PAC"
-excerpt: "ERM, PAC"
+title: "[UML][1] ERM and PAC"
+excerpt: "Empirical risk minimization, Probabily approximately correct learning"
 # layout: single
 # author_profile: true
 # sidebar_main: true
@@ -11,7 +11,7 @@ toc_sticky: true
 categories:
   - Machine Learning
 tags:
-  - [ML]
+  - [ERM, PAC]
 
 permalink: /categories/machine_learning/1
 

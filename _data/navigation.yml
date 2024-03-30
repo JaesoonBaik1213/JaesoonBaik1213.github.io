@@ -53,6 +53,12 @@ categories:
       - title: "Measure Theory"
         url: /categories/measure_theory/
         category: measure theory
+      - title: "Topology"
+        url: /categories/topology/
+        category: topology
+      - title: "Manifold"
+        url: /categories/manifold/
+        category: manifold
   
   - title: "Machine Learning"
     children: 

@@ -1,0 +1,67 @@
+# main links
+main:
+  - title: "Home"
+    url: https://soony1213.github.io/
+
+  - title: "About"
+    url: /about/
+
+  - title: "CV"
+    url: /assets/cv/jsbaik_CV.pdf
+
+  # - title: "GitHub"
+  #   url: https://github.com/soony1213
+
+  # - title: "Projects"
+  #   url: /projects/
+
+  # - title: "Categories"
+  #   url: /categories/
+
+# sidebar navigation (categories)
+# 2022.02.15 sidebar update : simple ver.
+categories:
+  - title: "Life"
+    url: /categories/life/
+    category: life
+
+  - title: "Programming"
+    children:
+      - title: "Python"
+        url: /categories/python/
+      - title: "Markdown"
+        url: /categories/markdown/
+        category: markdown
+
+  - title: "Computer Science"
+    children: 
+      - title: "Computer Vision"
+        url: /categories/computer_vision/
+        category: computer vision
+      - title: "Algorithm"
+        url: /categories/algorithm/
+        category: algorithm
+  
+  - title: "Mathmetics"
+    children: 
+      - title: "Linear Algebra"
+        url: /categories/linear_algebra/
+        category: linear algebra
+      - title: "Real Analysis"
+        url: /categories/real_analysis/
+        category: real analysis
+      - title: "Measure Theory"
+        url: /categories/measure_theory/
+        category: measure theory
+      - title: "Topology"
+        url: /categories/topology/
+        category: topology
+      - title: "Manifold"
+        url: /categories/manifold/
+        category: manifold
+  
+  - title: "Machine Learning"
+    children: 
+      - title: "Machine Learning"
+        url: /categories/machine_learning/
+        category: machine learning
